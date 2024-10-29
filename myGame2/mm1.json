@@ -1,0 +1,340 @@
+{
+    "0,0 N": {
+        "img": "/cimgs/IMG_1_0_N.jpg"
+    },
+    "0,0 E": {
+        "img": "/cimgs/IMG_1_0_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "0,0 S": {
+        "img": "/cimgs/IMG_1_0_S.jpg"
+    },
+    "0,0 W": {
+        "img": "/cimgs/IMG_1_0_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "0,1 N": {
+        "img": "/cimgs/IMG_1_1_N.jpg"
+    },
+    "0,1 E": {
+        "img": "/cimgs/IMG_1_1_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "0,1 S": {
+        "img": "/cimgs/IMG_1_1_S.jpg"
+    },
+    "0,1 W": {
+        "img": "/cimgs/IMG_1_1_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "0,2 N": {
+        "img": "/cimgs/IMG_1_2_N.jpg"
+    },
+    "0,2 E": {
+        "img": "/cimgs/IMG_1_2_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "0,2 S": {
+        "img": "/cimgs/IMG_1_2_S.jpg"
+    },
+    "0,2 W": {
+        "img": "/cimgs/IMG_1_2_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "0,3 N": {
+        "img": "/cimgs/IMG_1_3_N.jpg"
+    },
+    "0,3 E": {
+        "img": "/cimgs/IMG_1_3_E.jpg",
+        "forwardTransition": "4,0 N",
+        "backwardTransition": "1,0 S"
+    },
+    "0,3 S": {
+        "img": "/cimgs/IMG_1_3_S.jpg"
+    },
+    "0,3 W": {
+        "img": "/cimgs/IMG_1_3_W.jpg",
+        "forwardTransition": "1,0 N",
+        "backwardTransition": "4,0 S"
+    },
+    "1,0 N": {
+        "img": "/cimgs/IMG_1_4_N.jpg",
+        "backwardTransition": "0,3 W"
+    },
+    "1,0 E": {
+        "img": "/cimgs/IMG_1_4_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+        
+    },
+    "1,0 S": {
+        "img": "/cimgs/IMG_1_4_S.jpg",
+        "forwardTransition": "0,3 E"
+    },
+    "1,0 W": {
+        "img": "/cimgs/IMG_1_4_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+
+    },
+    "1,1 N": {
+        "img": "/cimgs/IMG_1_5_N.jpg"
+    },
+    "1,1 E": {
+        "img": "/cimgs/IMG_1_5_E.jpg",
+        "forwardTransition": "2,0 N",
+        "backwardTransition": "3,0 S"
+    },
+    "1,1 S": {
+        "img": "/cimgs/IMG_1_5_S.jpg"
+    },
+    "1,1 W": {
+        "img": "/cimgs/IMG_1_5_W.jpg",
+        "forwardTransition": "3,0 N",
+        "backwardTransition": "2,0 S"
+    },
+    "2,0 N": {
+        "img": "/cimgs/IMG_1_6_N.jpg",
+        "backwardTransition": "1,1 E"
+    },
+    "2,0 E": {
+        "img": "/cimgs/IMG_1_6_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "2,0 S": {
+        "img": "/cimgs/IMG_1_6_S.jpg",
+        "forwardTransition": "1,1 W"
+    },
+    "2,0 W": {
+        "img": "/cimgs/IMG_1_6_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "3,0 N": {
+        "img": "/cimgs/IMG_1_7_N.jpg",
+        "backwardTransition": "1,1 W"
+    },
+    "3,0 E": {
+        "img": "/cimgs/IMG_1_7_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "3,0 S": {
+        "img": "/cimgs/IMG_1_7_S.jpg",
+        "forwardTransition": "1,1 E"
+    },
+    "3,0 W": {
+        "img": "/cimgs/IMG_1_7_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "3,1 N": {
+        "img": "/cimgs/IMG_1_8_N.jpg"
+    },
+    "3,1 E": {
+        "img": "/cimgs/IMG_1_8_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "3,1 S": {
+        "img": "/cimgs/IMG_1_8_S.jpg"
+    },
+    "3,1 W": {
+        "img": "/cimgs/IMG_1_8_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,0 N": {
+        "img": "/cimgs/IMG_1_9_N.jpg",
+        "backwardTransition": "0,3 E"
+    },
+    "4,0 E": {
+        "img": "/cimgs/IMG_1_9_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,0 S": {
+        "img": "/cimgs/IMG_1_9_S.jpg",
+        "forwardTransition": "0,3 W"
+    },
+    "4,0 W": {
+        "img": "/cimgs/IMG_1_9_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,1 N": {
+        "img": "/cimgs/IMG_1_10_N.jpg"
+    },
+    "4,1 E": {
+        "img": "/cimgs/IMG_1_10_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,1 S": {
+        "img": "/cimgs/IMG_1_10_S.jpg"
+    },
+    "4,1 W": {
+        "img": "/cimgs/IMG_1_10_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,2 N": {
+        "img": "/cimgs/IMG_1_11_N.jpg"
+    },
+    "4,2 E": {
+        "img": "/cimgs/IMG_1_11_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,2 S": {
+        "img": "/cimgs/IMG_1_11_S.jpg"
+    },
+    "4,2 W": {
+        "img": "/cimgs/IMG_1_11_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,3 N": {
+        "img": "/cimgs/IMG_1_12_N.jpg"
+    },
+    "4,3 E": {
+        "img": "/cimgs/IMG_1_12_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,3 S": {
+        "img": "/cimgs/IMG_1_12_S.jpg"
+    },
+    "4,3 W": {
+        "img": "/cimgs/IMG_1_12_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "4,4 N": {
+        "img": "/cimgs/IMG_1_13_N.jpg",
+        "forwardTransition": "6,0 N"
+    },
+    "4,4 E": {
+        "img": "/cimgs/IMG_1_13_E.jpg",
+        "forwardTransition": "5,0 N"
+    },
+    "4,4 S": {
+        "img": "/cimgs/IMG_1_13_S.jpg",
+        "backwardTransition": "6,0 S"
+    },
+    "4,4 W": {
+        "img": "/cimgs/IMG_1_13_W.jpg",
+        "backwardTransition": "5,0 S"
+    },
+    "5,0 N": {
+        "img": "/cimgs/IMG_1_14_N.jpg",
+        "backwardTransition": "4,4 E"
+    },
+    "5,0 E": {
+        "img": "/cimgs/IMG_1_14_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "5,0 S": {
+        "img": "/cimgs/IMG_1_14_S.jpg",
+        "forwardTransition": "4,4 W"
+    },
+    "5,0 W": {
+        "img": "/cimgs/IMG_1_14_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "5,1 N": {
+        "img": "/cimgs/IMG_1_15_N.jpg"
+    },
+    "5,1 E": {
+        "img": "/cimgs/IMG_1_15_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "5,1 S": {
+        "img": "/cimgs/IMG_1_15_S.jpg"
+    },
+    "5,1 W": {
+        "img": "/cimgs/IMG_1_15_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "5,2 N": {
+        "img": "/cimgs/IMG_1_16_N.jpg"
+    },
+    "5,2 E": {
+        "img": "/cimgs/IMG_1_16_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "5,2 S": {
+        "img": "/cimgs/IMG_1_16_S.jpg"
+    },
+    "5,2 W": {
+        "img": "/cimgs/IMG_1_16_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "6,0 N": {
+        "img": "/cimgs/IMG_1_17_N.jpg",
+        "backwardTransition": "4,4 N"
+    },
+    "6,0 E": {
+        "img": "/cimgs/IMG_1_17_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "6,0 S": {
+        "img": "/cimgs/IMG_1_17_S.jpg",
+        "forwardTransition": "4,4 S"
+    },
+    "6,0 W": {
+        "img": "/cimgs/IMG_1_17_W.jpg",
+        "forwardTransition": "7,0 N"
+    },
+    "7,0 N": {
+        "img": "/cimgs/IMG_1_18_N.jpg",
+        "forwardTransition": "8,0 N",
+        "backwardTransition": "6,0 W"
+    },
+    "7,0 E": {
+        "img": "/cimgs/IMG_1_18_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "7,0 S": {
+        "img": "/cimgs/IMG_1_18_S.jpg",
+        "forwardTransition": "6,0 E"
+    },
+    "7,0 W": {
+        "img": "/cimgs/IMG_1_18_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "8,0 N": {
+        "img": "/cimgs/IMG_1_19_N.jpg",
+        "backwardTransition": "7,0 N"
+    },
+    "8,0 E": {
+        "img": "/cimgs/IMG_1_19_E.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    },
+    "8,0 S": {
+        "img": "/cimgs/IMG_1_19_S.jpg",
+        "forwardTransition": "7,0 S"
+    },
+    "8,0 W": {
+        "img": "/cimgs/IMG_1_19_W.jpg",
+        "restrictUp": true,
+        "restrictDown": true
+    }
+}
